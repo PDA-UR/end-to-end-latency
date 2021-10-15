@@ -1,2 +1,3 @@
-# end-to-end-latency
-Source code and circuit diagrams of our measuring device for end-to-end latency.
+# Yet Another Latency Measuring Device
+
+Source code of our measuring device for end-to-end latency.
